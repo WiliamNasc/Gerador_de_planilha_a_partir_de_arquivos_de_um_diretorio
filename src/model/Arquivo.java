@@ -6,6 +6,7 @@ public class Arquivo {
 	
 	private File arquivo;
 	private File [] listaArquivos;
+	private TesteGit String;
 	public File getArquivo() {
 		return arquivo;
 	}
